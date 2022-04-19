@@ -1,0 +1,22 @@
+TiktTok clone
+
+1. Material UI
+
+2. Firebase (hosting, FireStore database)
+
+3. CSS hacks
+	FlexBox
+	Snap Functionality
+
+4. UseRef hooks.
+
+
+packages:
+
+Ticker
+
+npm i react-ticker
+
+
+
+	
